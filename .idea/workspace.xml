@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/code/96.不同的二叉搜索树.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/code/134.加油站.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -52,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/406.根据升高重新建队.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
               <folding>
                 <element signature="e#128#151#0" expanded="true" />
               </folding>
@@ -61,11 +61,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/455.分发饼干.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/52.N皇后2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="27" />
+            <state relative-caret-position="330">
+              <caret line="22" column="27" lean-forward="true" selection-end-line="47" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/51.N皇后.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/120.三角形最小路径和.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <element signature="e#98#121#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,8 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/one.py" />
-        <option value="$PROJECT_DIR$/字符全排列.py" />
         <option value="$PROJECT_DIR$/求最大字数组和.py" />
         <option value="$PROJECT_DIR$/编程求解.py" />
         <option value="$PROJECT_DIR$/寻找两个有序数组中位数.py" />
@@ -146,6 +165,8 @@
         <option value="$PROJECT_DIR$/code/134.加油站.py" />
         <option value="$PROJECT_DIR$/code/406.根据升高重新建队.py" />
         <option value="$PROJECT_DIR$/code/455.分发饼干.py" />
+        <option value="$PROJECT_DIR$/code/52.N皇后2.py" />
+        <option value="$PROJECT_DIR$/code/51.N皇后.py" />
       </list>
     </option>
   </component>
@@ -163,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,7 +201,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.455.分发饼干">
+  <component name="RunManager" selected="Python.51.N皇后">
     <configuration name="只出现一次的数字" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,28 +271,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/122.买股票的最佳时机2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="213.打家劫舍2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/anaconda3/python.app/Contents/MacOS/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/213.打家劫舍2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="96.不同的二叉搜索树" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="51.N皇后" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,7 +336,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/96.不同的二叉搜索树.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/51.N皇后.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="52.N皇后2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/anaconda3/python.app/Contents/MacOS/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/52.N皇后2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -370,19 +391,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.只出现一次的数字" />
-      <item itemvalue="Python.96.不同的二叉搜索树" />
-      <item itemvalue="Python.213.打家劫舍2" />
       <item itemvalue="Python.122.买股票的最佳时机2" />
       <item itemvalue="Python.406.根据升高重新建队" />
       <item itemvalue="Python.455.分发饼干" />
+      <item itemvalue="Python.52.N皇后2" />
+      <item itemvalue="Python.51.N皇后" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.51.N皇后" />
+        <item itemvalue="Python.52.N皇后2" />
         <item itemvalue="Python.455.分发饼干" />
         <item itemvalue="Python.406.根据升高重新建队" />
         <item itemvalue="Python.122.买股票的最佳时机2" />
-        <item itemvalue="Python.213.打家劫舍2" />
-        <item itemvalue="Python.96.不同的二叉搜索树" />
       </list>
     </recent_temporary>
   </component>
@@ -446,18 +467,19 @@
       <workItem from="1571152332758" duration="2714000" />
       <workItem from="1571199161712" duration="3407000" />
       <workItem from="1571618084904" duration="6540000" />
-      <workItem from="1572223323705" duration="5710000" />
+      <workItem from="1572223323705" duration="5928000" />
+      <workItem from="1573434493344" duration="4133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126263000" />
+    <option name="totallyTimeSpent" value="130614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="749" y="23" width="931" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22272216" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2272216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -675,6 +697,21 @@
           <line>15</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/52.N皇后2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/52.N皇后2.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/51.N皇后.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -690,6 +727,7 @@
     <SUITE FILE_PATH="coverage/leetcode$213_2.coverage" NAME="213.打家劫舍2 Coverage Results" MODIFIED="1571626873609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$146_LRU.coverage" NAME="146.LRU缓存机制 Coverage Results" MODIFIED="1571204312940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$455_.coverage" NAME="455.分发饼干 Coverage Results" MODIFIED="1572231227005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$51_N.coverage" NAME="51.N皇后 Coverage Results" MODIFIED="1573438865736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$406_.coverage" NAME="406.根据升高重新建队 Coverage Results" MODIFIED="1572230553670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$198_.coverage" NAME="198.打家劫舍 Coverage Results" MODIFIED="1571623665133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/testLHR$oo.coverage" NAME="oo Coverage Results" MODIFIED="1567782535008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -700,6 +738,7 @@
     <SUITE FILE_PATH="coverage/testLHR$49_.coverage" NAME="49.字母异位词分组 Coverage Results" MODIFIED="1571035993689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/testLHR$_.coverage" NAME="编程求解 Coverage Results" MODIFIED="1567846189821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$122_2.coverage" NAME="122.买股票的最佳时机2 Coverage Results" MODIFIED="1572229638217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$52_N2.coverage" NAME="52.N皇后2 Coverage Results" MODIFIED="1573438313778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -756,8 +795,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/101.对称二叉树.py" />
-    <entry file="file://$PROJECT_DIR$/141.环形链表.py" />
     <entry file="file://$PROJECT_DIR$/102.二叉树层次遍历.py" />
     <entry file="file://$PROJECT_DIR$/104.二叉树的最大深度.py" />
     <entry file="file://$PROJECT_DIR$/20.有效的括号.py" />
@@ -809,16 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/120.三角形最小路径和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding>
-            <element signature="e#98#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/146.LRU缓存机制.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
@@ -840,10 +867,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/198.打家劫舍.py">
+    <entry file="file://$PROJECT_DIR$/code/96.不同的二叉搜索树.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -857,31 +884,55 @@
     <entry file="file://$PROJECT_DIR$/code/134.加油站.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/96.不同的二叉搜索树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code/406.根据升高重新建队.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
           <folding>
             <element signature="e#128#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/code/198.打家劫舍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/455.分发饼干.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="27" />
+        <state relative-caret-position="135">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/120.三角形最小路径和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#98#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/52.N皇后2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="27" lean-forward="true" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/51.N皇后.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="66" />
         </state>
       </provider>
     </entry>
