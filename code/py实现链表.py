@@ -1,5 +1,10 @@
-# -*- coding:utf8 -*-
-#/usr/bin/env python
+"""
+@File    : py实现链表.py
+@Time    : 2019-10-28 10:46
+@Author  : 李浩然
+@Software: PyCharm
+@Email: 1901210423@pku.edu.cn
+"""
 
 class Node(object):
     def __init__(self, data, pnext = None):

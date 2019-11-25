@@ -15,10 +15,6 @@ class Solution:
                     answer.append(a)
         return answer
 
-
-
-
-
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
